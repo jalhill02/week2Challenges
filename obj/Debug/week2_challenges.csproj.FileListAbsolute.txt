@@ -1,0 +1,2 @@
+C:\Users\jalhi\source\repos\04_Methods\week2_challenges\obj\Debug\week2_challenges.csprojAssemblyReference.cache
+C:\Users\jalhi\source\repos\04_Methods\week2_challenges\obj\Debug\week2_challenges.csproj.CoreCompileInputs.cache
